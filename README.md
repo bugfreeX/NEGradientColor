@@ -1,13 +1,17 @@
 # NEGradientColor
  UIColor Category,gradient Color
 
+
 * UIGradientLeftToRight
+
 ![example](https://github.com/XieXieZhongxi/NEGradientColor/blob/master/screenshot/UIGradientLeftToRight.png)
 
 * UIGradientRadial
+
 ![example](https://github.com/XieXieZhongxi/NEGradientColor/blob/master/screenshot/UIGradientRadial.png)
 
 * UIGradientTopToBottom
+
 ![example](https://github.com/XieXieZhongxi/NEGradientColor/blob/master/screenshot/UIGradientTopToBottom.png)
 
 
