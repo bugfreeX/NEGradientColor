@@ -1,5 +1,5 @@
 # NEGradientColor
-* UIColor Category,gradient Color
+ UIColor Category,gradient Color
 
 * UIGradientLeftToRight
 ![example](https://github.com/XieXieZhongxi/NEGradientColor/blob/master/screenshot/UIGradientLeftToRight.png)
