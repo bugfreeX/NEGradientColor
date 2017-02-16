@@ -1,14 +1,14 @@
 # NEGradientColor
-* Gradient Color
+* UIColor Category,gradient Color
 
 * UIGradientLeftToRight
-![example](https://github.com/XieXieZhongxi/NEWave/blob/master/screenshot/example.gif)
+![example](https://github.com/XieXieZhongxi/NEGradientColor/blob/master/screenshot/UIGradientLeftToRight.png)
 
 * UIGradientRadial
-![example](https://github.com/XieXieZhongxi/NEWave/blob/master/screenshot/example.gif)
+![example](https://github.com/XieXieZhongxi/NEGradientColor/blob/master/screenshot/UIGradientRadial.png)
 
 * UIGradientTopToBottom
-![example](https://github.com/XieXieZhongxi/NEWave/blob/master/screenshot/example.gif)
+![example](https://github.com/XieXieZhongxi/NEGradientColor/blob/master/screenshot/UIGradientTopToBottom.png)
 
 
 ###Sample Code
